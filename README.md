@@ -21,7 +21,7 @@ This desktop application allows users to design custom digital filters by placin
 ![Alt Text](Gifs/Delete.gif)
 - Option to add conjugates for complex elements.
 - Drag the pair of conjugates simultaneously
-- Delete tha paie of conjugates together
+- Delete tha pair of conjugates together
 
 ![Alt Text](Gifs/Conjugates.gif)
 
