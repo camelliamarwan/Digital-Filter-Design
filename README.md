@@ -73,7 +73,7 @@ This desktop application allows users to design custom digital filters by placin
 
 ## Contribution
   ### **Our Team :**
-- Hager Samir
 - Camellia Marwan
+- Hager Samir
 - Farah Ossama
 - Malak Nasser
