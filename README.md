@@ -73,7 +73,19 @@ This desktop application allows users to design custom digital filters by placin
 
 ## Contribution
   ### **Our Team :**
-- Camellia Marwan
-- Hager Samir
-- Farah Ossama
-- Malak Nasser
+  
+<div align="left">
+  <a href="https://github.com/malaknasser812">
+    <img src="">
+  </a>
+  <a href="https://github.com/camelliamarwan">
+    <img src="https://avatars.githubusercontent.com/u/115187802?v=4">
+  </a>
+  <a href="https://github.com/fou65">
+    <img src="https://avatars.githubusercontent.com/u/115308809?v=4">
+  </a>
+  <a href="https://github.com/hagersamir">
+    <img src="https://avatars.githubusercontent.com/u/105936147?v=4">
+  </a>
+</div>
+
