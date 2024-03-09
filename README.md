@@ -76,7 +76,7 @@ This desktop application allows users to design custom digital filters by placin
   
 <div align="left">
   <a href="https://github.com/malaknasser812">
-    <img src="">
+    <img src="https://avatars.githubusercontent.com/u/61388796?v=4">
   </a>
   <a href="https://github.com/camelliamarwan">
     <img src="https://avatars.githubusercontent.com/u/115187802?v=4">
